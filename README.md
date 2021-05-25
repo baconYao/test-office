@@ -1,5 +1,11 @@
 # test-office
 
+## Resources
+
+[office-web-viewer-view-office-documents-in-a-browser](https://www.microsoft.com/en-us/microsoft-365/blog/2013/04/10/office-web-viewer-view-office-documents-in-a-browser)
+
+## Usage Example
+
 Office Online viewer:
 - https://view.officeapps.live.com/op/view.aspx?src=https://github.com/baconYao/test-office/raw/main/doc.doc
 - https://view.officeapps.live.com/op/view.aspx?src=https://github.com/baconYao/test-office/raw/main/九州行程介紹.xlsx
